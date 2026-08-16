@@ -31,18 +31,20 @@ re-renders automatically to reflect the change.
 ## Screenshots
 
 ### Habit Tracker — Home view
+
 ![Home view](public/screenshots/home.png)
 
 ### Adding a habit
+
 ![Add habit](public/screenshots/add-habit.png)
 
-### Completed habit 
+### Completed habit
+
 ![Completed habit](public/screenshots/completed-habit.png)
 
 ### Filtered view
+
 ![Filtered view](public/screenshots/filtered.png)
-
-
 
 ## Tests
 
@@ -71,10 +73,16 @@ All tests are in the `__tests__` folder.
 
 Total: 28 Tests
 
-
 ### Tests Passed
+
 ![Tests Passed](public/screenshots/testspassed.png)
 
 ## To run the tests:
 
 npm run test:watch
+
+npm run dev
+
+Git repo link : https://github.com/SuneethaBandaru/HabitTracker
+
+Vercel live link : https://habit-tracker-beige-eight.vercel.app/
