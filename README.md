@@ -83,6 +83,6 @@ npm run test:watch
 
 npm run dev
 
-Git repo link : https://github.com/SuneethaBandaru/HabitTracker
+Git repo link : https://github.com/SuneethaBandaru/HabitTracker-assignment
 
 Vercel live link : https://habit-tracker-beige-eight.vercel.app/
